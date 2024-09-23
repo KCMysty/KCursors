@@ -2,8 +2,26 @@
 
 ## Qu'est-ce que c'est ?
 
-**KCursors** est un pack de curseurs inspiré de la **Karmine Corp** et agrémente votre expérience PC avec la plus belle des couleurs : **LE BLEU**
-  
+**KCursors** est un pack de curseurs inspiré de la **Karmine Corp** et ajoute à votre expérience PC la plus belle des couleurs : **LE BLEU** 
+
+![kc_pointer](kc_pointer.cur) 
+![kc_work](assets/kc_work.cur) 
+![kc_help](kc_help.cur) 
+![kc_busy](assets/kc_busy.cur)
+![kc_cross](kc_cross.cur) 
+![kc_text](kc_text.cur) 
+![kc_hand](kc_hand.cur) 
+![kc_unavailable](kc_unavailable.cur) 
+![kc_vert](kc_vert.cur) 
+![kc_horz](kc_horz.cur) 
+![kc_dgn1](kc_dgn1.cur) 
+![kc_dgn2](kc_dgn2.cur) 
+![kc_move](kc_move.cur) 
+![kc_alternate](kc_alternate.cur) 
+![kc_link](kc_link.cur) 
+![kc_person](kc_person.cur) 
+![kc_pin](kc_pin.cur) 
+
 ## Comment installer le pack de curseurs KCursors sous Windows ?
 
 ### Étape 1 : Téléchargez le pack de curseurs
