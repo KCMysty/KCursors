@@ -1,0 +1,56 @@
+; KC Fan-made Cursors
+; Author : Mysty
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Cursors.Cur, Cursors.Ani
+AddReg    = Cursors.Reg
+
+[DestinationDirs]
+Cursors.Cur = 10,"%CUR_DIR%"
+Cursors.Ani = 10,"%CUR_DIR%"
+
+[Cursors.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%hand%,%10%\%CUR_DIR%\%unavailable%,%10%\%CUR_DIR%\%vert%,%10%\%CUR_DIR%\%horz%,%10%\%CUR_DIR%\%dgn1%,%10%\%CUR_DIR%\%dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%"
+
+[Cursors.Cur]
+kc_pointer.cur
+kc_help.cur
+kc_work.ani
+kc_busy.ani
+kc_text.cur
+kc_unavailable.cur
+kc_vert.cur
+kc_horz.cur
+kc_dgn1.cur
+kc_dgn2.cur
+kc_move.cur
+kc_link.cur
+kc_pin.cur
+kc_person.cur
+kc_cross.cur
+kc_hand.cur
+kc_alternate.cur
+
+[Strings]
+CUR_DIR       = "Cursors\KCursors"
+SCHEME_NAME   = "KCursors"
+pointer       = "kc_pointer.cur"
+help          = "kc_help.cur"
+work	      = "kc_work.ani"
+busy          = "kc_busy.ani"
+text          = "kc_text.cur"
+unavailable   = "kc_unavailable.cur"
+vert          = "kc_vert.cur"
+horz          = "kc_horz.cur"
+dgn1          = "kc_dgn1.cur"
+dgn2          = "kc_dgn2.cur"
+move          = "kc_move.cur"
+link          = "kc_link.cur"
+pin           = "kc_pin.cur"
+person        = "kc_person.cur"
+cross         = "kc_cross.cur"
+hand          = "kc_hand.cur"
+alternate     = "kc_alternate.cur"
